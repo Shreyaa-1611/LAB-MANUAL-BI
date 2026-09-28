@@ -2,7 +2,7 @@
 
 An interactive **Tableau data analytics project** exploring Spotify's 2023 most-streamed songs through visualisation, comparison, and exploratory analysis.
 
-The project investigates the relationship between **streaming performance, audio characteristics, artists, platform exposure, release trends, and cross-platform reach**.
+The project investigates **streaming performance, audio characteristics, artists, platform exposure, release trends, and cross-platform reach**.
 
 ## 📊 What This Project Covers
 
@@ -31,8 +31,14 @@ The goal of this project is to transform raw Spotify data into an **interactive 
 
 ## 🔍 Key Analytical Areas
 
-The project explores:
-
 **Streaming Performance • Audio Features • Artists • Collaborations • Platform Exposure • Release Trends • Cross-Platform Presence**
 
-This project was developed as part of a **Tableau data analytics coursework**.
+## 👩‍💻 Author
+
+**Shreya Vatsa**
+
+Data Analytics Enthusiast | Tableau | SQL | Python
+
+---
+
+*Built as part of a Tableau Data Analytics coursework project.*
